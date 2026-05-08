@@ -1,0 +1,15 @@
+AR ila ila_a /home/student2/hndu/COE758/COE758/Project1/ipcore_dir/ILA.vhd sub00/vhpl08 1760483460
+AR icon icon_a /home/student2/hndu/COE758/COE758/Project1/ipcore_dir/ICON.vhd sub00/vhpl06 1760483458
+EN cache_controller NULL /home/student2/hndu/COE758/COE758/Project1/CACHE_Controller.vhd sub00/vhpl09 1760483461
+EN icon NULL /home/student2/hndu/COE758/COE758/Project1/ipcore_dir/ICON.vhd sub00/vhpl05 1760483457
+EN cpu_gen NULL /home/student2/hndu/COE758/COE758/Project1/CPU.vhd sub00/vhpl13 1760483451
+EN sram NULL /home/student2/hndu/COE758/COE758/Project1/ipcore_dir/SRAM.vhd sub00/vhpl03 1760483455
+EN cpu NULL /home/student2/hndu/COE758/Project1/CPU.vhd sub00/vhpl00 1759872261
+AR sdram_controller behavioral /home/student2/hndu/COE758/COE758/Project1/SDRAM_Controller.vhd sub00/vhpl12 1760483454
+AR cpu behavioral /home/student2/hndu/COE758/Project1/CPU.vhd sub00/vhpl01 1759872262
+AR sram sram_a /home/student2/hndu/COE758/COE758/Project1/ipcore_dir/SRAM.vhd sub00/vhpl04 1760483456
+AR cpu_gen behavioral /home/student2/hndu/COE758/COE758/Project1/CPU.vhd sub00/vhpl14 1760483452
+EN sdram_controller NULL /home/student2/hndu/COE758/COE758/Project1/SDRAM_Controller.vhd sub00/vhpl02 1760483453
+AR cache_controller behavioral /home/student2/hndu/COE758/COE758/Project1/CACHE_Controller.vhd sub00/vhpl10 1760483462
+EN test NULL /home/student2/hndu/COE758/COE758/Project1/TEST.vhd sub00/vhpl11 1760483338
+EN ila NULL /home/student2/hndu/COE758/COE758/Project1/ipcore_dir/ILA.vhd sub00/vhpl07 1760483459

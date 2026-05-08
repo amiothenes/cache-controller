@@ -1,0 +1,5 @@
+set -tmpdir "/home/student2/hndu/COE758/COE758/Project1/xst/projnav.tmp"
+set -xsthdpdir "/home/student2/hndu/COE758/COE758/Project1/xst"
+elaborate
+-ifn TEST.prj
+-ifmt mixed

@@ -1,0 +1,2 @@
+#Clk SIgnal
+Net "Clk" loc = "C9"

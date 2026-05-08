@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/student2/hndu/COE758/COE758/Project1/TEST_isim_beh.exe" -prj "/home/student2/hndu/COE758/COE758/Project1/TEST_beh.prj" "work.TEST" 

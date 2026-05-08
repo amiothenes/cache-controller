@@ -1,0 +1,48 @@
+Release 13.4 - xst O.87xd (lin64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/student2/hndu/COE758/COE758/Project1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/student2/hndu/COE758/COE758/Project1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/TEST is now defined in a different file.  It was defined in "/home/student2/hndu/COE758/Project1/TEST.vhd", and is now defined in "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd".
+WARNING:HDLParsers:3607 - Unit work/TEST/behavior is now defined in a different file.  It was defined in "/home/student2/hndu/COE758/Project1/TEST.vhd", and is now defined in "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd".
+Compiling vhdl file "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" in Library work.
+Entity <test> compiled.
+ERROR:HDLParsers:164 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 71. parse error, unexpected TOKOUT, expecting IDENTIFIER or STRING_LITERAL
+ERROR:HDLParsers:3312 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 94. Undefined symbol 'STATES'.
+ERROR:HDLParsers:1209 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 94. STATES: Undefined symbol (last report in this block)
+ERROR:HDLParsers:1015 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 105. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 107. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 114. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 116. Wait for statement unsupported.
+ERROR:HDLParsers:1015 - "/home/student2/hndu/COE758/COE758/Project1/TEST.vhd" Line 122. Wait for statement unsupported.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+
+
+Total memory usage is 700236 kilobytes
+
+Number of errors   :    8 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
