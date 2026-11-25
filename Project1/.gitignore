@@ -1,0 +1,23 @@
+# Quartus build output
+db/
+incremental_db/
+greybox_tmp/
+output_files/
+simulation/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.qws
+*.sof
+*.pof
+*.jdi
+*.pin
+*.sld
+*.qdb
+*_assignment_defaults.qdf
+*.bak
+*.cmp
+*.cmp.rpt
+*.vwf.temp
+hc_output/
